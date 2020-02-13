@@ -5,7 +5,6 @@ This function helps to get domain name from a given URL
 __Example: 1__
 
 ```
-Input:
 +----------------------+------------+
 | input                | output     |
 +----------------------+------------+
